@@ -16,5 +16,5 @@ function sortedIndex(array, item){
     return recursiveBinarySearch(array, item, 0, array.length)
 }
 
-console.log(sortedIndex(array, 66))
+console.log(sortedIndex(array, 45))
 
