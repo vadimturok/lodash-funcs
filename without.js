@@ -17,4 +17,4 @@ function without(array, ...values){
     return newArray
 }
 
-console.log(without([2, 1, 2, 3], 1, 2));
+console.log(without([2, 1, 2, 3, 4, 3, 5, 6], 1, 2, 3));
